@@ -1,0 +1,10 @@
+interface:
+  display_name: GG → TS File Overviews → Standards
+  short_description: Audit and normalize TypeScript file-overview headers against repo standards
+  icon_small: ./assets/icon-small.svg
+  icon_large: ./assets/icon-large.png
+  brand_color: '#22C55E'
+  default_prompt: >-
+    Use when TypeScript file-overview hygiene is in scope. Run the repo audit surface, rank priority
+    targets, generate per-file remediation briefs, and normalize headers against the current
+    standard. Reference ts-file-overviews/SKILL.md when cross-referencing this skill.
